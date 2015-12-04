@@ -1,0 +1,14 @@
+{
+    "feed": {
+        "title": "",
+        "description": "",
+        "feed_url": "",
+        "site_url": "",
+        "categories": [],
+        "ttl": 30,
+        "managingEditor": "Vsevolod Ivanov"
+    },
+    "itemDefaults": {
+        "author": "Vsevolod Ivanov"
+    }
+}

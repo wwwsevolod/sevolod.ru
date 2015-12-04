@@ -1,0 +1,33 @@
+{
+  "name": "sevolod.ru",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wwwsevolod/sevolod.ru.git"
+  },
+  "author": "wwwsevolod",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wwwsevolod/sevolod.ru/issues"
+  },
+  "homepage": "https://github.com/wwwsevolod/sevolod.ru#readme",
+  "devDependencies": {
+    "babel-eslint": "^4.1.6",
+    "eslint": "^1.10.3",
+    "eslint-plugin-react": "^3.11.2",
+    "gulp": "^3.9.0",
+    "gulp-render-react": "^2.0.0",
+    "gulp-wrap": "^0.11.0",
+    "react": "^0.14.3",
+    "react-dom": "^0.14.3",
+    "rss": "^1.2.1"
+  },
+  "dependencies": {
+    "normalize.css": "^3.0.3"
+  }
+}
